@@ -1,0 +1,30 @@
+The Wishful Mountain
+
+Priority:
+-Unity Player controller
+-Sprites
+-The Level
+-Ice Pick Mechanics
+-Basic Enemies
+-Dodge tech
+-Decor
+-First Boss (Either The Judge or Old man)
+-Dialog (If there is time)
+-Boomerang
+-Rally Mechanic
+-UI Spice
+-Controller Support
+
+TO-DO:
+-Make base color map thingy
+Tile-maps:
+-Cave Wall
+-Cave Wall Background
+-Snowy Ground Path
+-Snow Overhang
+Props:
+-Small Flag Pole
+-Some form of lighting (Lanterns, torches and stuff like that)
+-Shrubbery
+Player:
+-Recolor Sprites/Sprite Sheets from Toby
