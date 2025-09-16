@@ -26,5 +26,6 @@ Props:
 -Small Flag Pole
 -Some form of lighting (Lanterns, torches and stuff like that)
 -Shrubbery
+-Wooden rafters/Semi Solid Platforms
 Player:
 -Recolor Sprites/Sprite Sheets from Toby
