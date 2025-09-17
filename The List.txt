@@ -1,7 +1,7 @@
 The Wishful Mountain
 
 Priority:
--Unity Player controller
+-Unity Player controller (Started)
 -Sprites
 -The Level
 -Ice Pick Mechanics
@@ -18,9 +18,9 @@ Priority:
 TO-DO:
 -Make base color map thingy
 Tile-maps:
--Cave Wall
+-Cave Wall (Done/Started)
 -Cave Wall Background
--Snowy Ground Path
+-Snowy Ground Path (Done)
 -Snow Overhang
 Props:
 -Small Flag Pole
