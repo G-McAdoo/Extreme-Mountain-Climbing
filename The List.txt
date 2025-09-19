@@ -15,17 +15,5 @@ Priority:
 -UI Spice
 -Controller Support
 
-TO-DO:
--Make base color map thingy
-Tile-maps: FINISHED
--Cave Wall (Done)
--Cave Wall Background (Done)
--Snowy Ground Path (Done)
--Snow Overhang (Done)
-Props:
--Small Flag Pole
--Some form of lighting (Lanterns, torches and stuff like that) (Done)
--Shrubbery
--Wooden rafters/Semi Solid Platforms (Done)
 Player:
 -Recolor Sprites/Sprite Sheets from Toby
