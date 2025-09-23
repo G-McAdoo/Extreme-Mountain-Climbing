@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ad5445fc6cb841044b62d85d74468239
+guid: 22f334ba6435eb54aae04303349df34f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1893737803547270191
-    second: Player attack 1_0
+      213: 8574152282771483625
+    second: Snow Tilemap_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player attack 1_0
+      name: Snow Tilemap_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 24
-        height: 62
+        x: 0
+        y: 31
+        width: 96
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d326d9408718b5e0800000000000000
-      internalID: -1893737803547270191
+      spriteID: 9ebe2b8c2128df670800000000000000
+      internalID: 8574152282771483625
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Player attack 1_0: -1893737803547270191
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

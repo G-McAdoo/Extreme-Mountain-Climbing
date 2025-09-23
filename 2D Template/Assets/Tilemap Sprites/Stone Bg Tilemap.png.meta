@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: ad5445fc6cb841044b62d85d74468239
+guid: 3400e8ff4356bce4d8d5b0c2b5a23cb9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1893737803547270191
-    second: Player attack 1_0
+      213: -3784953657109255018
+    second: Stone Bg Tilemap_0
+  - first:
+      213: 536410230065386334
+    second: Stone Bg Tilemap_1
+  - first:
+      213: -3293306366917675104
+    second: Stone Bg Tilemap_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player attack 1_0
+      name: Stone Bg Tilemap_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 24
-        height: 62
+        x: 0
+        y: 31
+        width: 96
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d326d9408718b5e0800000000000000
-      internalID: -1893737803547270191
+      spriteID: 69cefa0d3b4297bc0800000000000000
+      internalID: -3784953657109255018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone Bg Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53dee02346b17700800000000000000
+      internalID: 536410230065386334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone Bg Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f657de43db42d0800000000000000
+      internalID: -3293306366917675104
       vertices: []
       indices: 
       edges: []
@@ -161,7 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player attack 1_0: -1893737803547270191
+      Stone Bg Tilemap_0: -3784953657109255018
+      Stone Bg Tilemap_1: 536410230065386334
+      Stone Bg Tilemap_2: -3293306366917675104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

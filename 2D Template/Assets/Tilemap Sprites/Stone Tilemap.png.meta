@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: ad5445fc6cb841044b62d85d74468239
+guid: e6f35ccc27c62ae4cb52e78d2bf5dced
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1893737803547270191
-    second: Player attack 1_0
+      213: -5998103769631813404
+    second: Stone Tilemap_0
+  - first:
+      213: -2314159951145432836
+    second: Stone Tilemap_1
+  - first:
+      213: -6122285388108875399
+    second: Stone Tilemap_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player attack 1_0
+      name: Stone Tilemap_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 24
-        height: 62
+        x: 0
+        y: 31
+        width: 96
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d326d9408718b5e0800000000000000
-      internalID: -1893737803547270191
+      spriteID: 4e01a2d966472cca0800000000000000
+      internalID: -5998103769631813404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf88a8e09c372efd0800000000000000
+      internalID: -2314159951145432836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979b43470e5490ba0800000000000000
+      internalID: -6122285388108875399
       vertices: []
       indices: 
       edges: []
@@ -160,8 +210,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Player attack 1_0: -1893737803547270191
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
